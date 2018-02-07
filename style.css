@@ -49,8 +49,8 @@ a:hover {
   margin-left: 50px;
 }
 
-#sidebar ul {
-  list-style: none
-  margin-left: 0;
+#sidebar ul li {
+  list-style: none;
+  margin-left: -10px;
   margin-top: 15px;
 }
