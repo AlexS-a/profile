@@ -38,13 +38,17 @@ a:hover {
 
 #sidebar {
   position: fixed;
-  width: 100px;
+  width: 60px;
   left: 0;
   top: 0;
   bottom: 0;
   background-color: rgba(50, 50, 50, 0.7);
-  list-style: none
+
 }
 #page-content {
   margin-left: 50px;
+}
+
+#sidebar ul {
+  list-style: none
 }
