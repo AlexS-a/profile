@@ -38,11 +38,12 @@ a:hover {
 
 #sidebar {
   position: fixed;
-  width: 300px;
+  width: 20px;
   left: 0;
   top: 0;
   bottom: 0;
+  color: rgba(50, 50, 50, 0.7);
 }
 #page-content {
-  margin-left: 300px;
+  margin-left: 50px;
 }
